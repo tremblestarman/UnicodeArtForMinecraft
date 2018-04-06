@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2015\Projects\UnicodeArt For Minecraft\UnicodeArt For Minecraft\bin\Debug\UnicodeArt For Minecraft.exe.config
+C:\Users\Administrator\documents\visual studio 2015\Projects\UnicodeArt For Minecraft\UnicodeArt For Minecraft\bin\Debug\UnicodeArt For Minecraft.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\UnicodeArt For Minecraft\UnicodeArt For Minecraft\bin\Debug\UnicodeArt For Minecraft.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\UnicodeArt For Minecraft\UnicodeArt For Minecraft\obj\Debug\UnicodeArt For Minecraft.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\UnicodeArt For Minecraft\UnicodeArt For Minecraft\obj\Debug\UnicodeArt For Minecraft.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\UnicodeArt For Minecraft\UnicodeArt For Minecraft\obj\Debug\UnicodeArt For Minecraft.pdb
